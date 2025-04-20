@@ -1,0 +1,78 @@
+{
+    "users": {
+        "Quengg Ryo": "quang3283",
+        "Rin Tra": "tra123",
+        "Si Truong": "truong123",
+        "Duc Trong": "trong123"
+    },
+    "messages": {
+        "Quengg Ryo": [
+            {
+                "sender": "Rin Tra",
+                "receiver": "Quengg Ryo",
+                "message": "Hello!",
+                "timestamp": "2025-04-19 13:51:20"
+            },
+            {
+                "sender": "Si Truong",
+                "receiver": "Quengg Ryo",
+                "message": "He",
+                "timestamp": "2025-04-19 13:52:01"
+            }
+        ],
+        "Rin Tra": [
+            {
+                "sender": "Rin Tra",
+                "receiver": "Quengg Ryo",
+                "message": "Hello!",
+                "timestamp": "2025-04-19 13:51:20"
+            },
+            {
+                "sender": "Si Truong",
+                "receiver": "Rin Tra",
+                "message": "hi",
+                "timestamp": "2025-04-19 13:52:09"
+            }
+        ],
+        "Si Truong": [
+            {
+                "sender": "Si Truong",
+                "receiver": "Quengg Ryo",
+                "message": "He",
+                "timestamp": "2025-04-19 13:52:01"
+            },
+            {
+                "sender": "Si Truong",
+                "receiver": "Rin Tra",
+                "message": "hi",
+                "timestamp": "2025-04-19 13:52:09"
+            },
+            {
+                "sender": "Duc Trong",
+                "receiver": "Si Truong",
+                "message": "hi",
+                "timestamp": "2025-04-19 14:31:03"
+            },
+            {
+                "sender": "Si Truong",
+                "receiver": "Duc Trong",
+                "message": "hello",
+                "timestamp": "2025-04-19 14:33:16"
+            }
+        ],
+        "Duc Trong": [
+            {
+                "sender": "Duc Trong",
+                "receiver": "Si Truong",
+                "message": "hi",
+                "timestamp": "2025-04-19 14:31:03"
+            },
+            {
+                "sender": "Si Truong",
+                "receiver": "Duc Trong",
+                "message": "hello",
+                "timestamp": "2025-04-19 14:33:16"
+            }
+        ]
+    }
+}
